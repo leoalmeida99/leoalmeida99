@@ -1,12 +1,9 @@
-👋 Olá, me chamo Leonardo!
+Welcome to Leonardo's repository
 
-Estou interessado em aprender novas técnicas na programação,desafios e resolver problemas,
-estou aprendendo Java, SQL, Git,
-Como chegar até mim...
+I'm a Java Programmer
+
+Here you will find projects that solves common day-to-day problems, in these projects I use technology as an engine.
+
+Contacts:
 linkedin: linkedin.com/in/leonardoalmeida19/
 Instragram: instagram.com/leoalmeida99/
-
-<!---
-leoalmeida99/leoalmeida99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
