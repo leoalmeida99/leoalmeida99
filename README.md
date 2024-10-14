@@ -1,9 +1,3 @@
-Welcome to Leonardo's repository
+Bem-vindo(a) ao meu GitHub
 
-I'm a Java Programmer
-
-Here you will find projects that solves common day-to-day problems, in these projects I use technology as an engine.
-
-Contacts:
-linkedin: linkedin.com/in/leonardoalmeida19/
-Instragram: instagram.com/leoalmeida99/
+Aqui você encontra meus projetos e estudos de ferramentas para resolver problemas do dia-a-dia.
